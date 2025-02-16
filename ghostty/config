@@ -1,0 +1,6 @@
+font-family = Hack Nerd Font
+term = xterm-256color
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = true
+theme = catppuccin-macchiato
